@@ -26,7 +26,7 @@ article {
 .main-blog {
   width: 740px;
   height: 50%;
-  background: linear-gradient(transparent, black), url(./img/img-1\(1\).jpg);
+  background: linear-gradient(transparent, black), url(./img/img-1.jpg);
   background-repeat: no-repeat center;
   background-size: cover;
 }
